@@ -1,2 +1,4 @@
-# web-335
-WEB335-323M Introduction to NoSQL
+# WEB-335 Introduction to NoSQL
+## Contributors
+* Professor Krasso
+* Student Zadkiel Rodriguez
