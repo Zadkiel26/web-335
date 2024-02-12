@@ -1,7 +1,7 @@
 """
     Title: RodriguezAlvarado_hobbies.py
     Author: Zadkiel Rodriguez Alvarado
-    Date: 01/21/2024
+    Date: 02/11/2024
     Description: Create lists
     Sources: 
         https://www.w3schools.com/python/python_lists.asp
